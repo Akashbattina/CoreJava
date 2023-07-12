@@ -1,4 +1,4 @@
-package Inheritence;
+package oops.Inheritence;
 //Super class
 	class Person {
 		int age = 50;//Age as super

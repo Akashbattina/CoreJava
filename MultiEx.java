@@ -1,5 +1,5 @@
-package Inheritence;
-//super class
+package oops.Inheritence;
+                                //super class
 class laptop {
 	String name = "HP";
 
@@ -8,13 +8,11 @@ class laptop {
 		System.out.println(this.name);
 	}
 }
-
 //subclass
-class HP extends laptop {
+    class HP extends laptop {
 
 	String model;
 	String name;
-
 	HP(String name, String model) {
 		super(name);
 		this.model = model;

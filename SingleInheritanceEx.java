@@ -1,4 +1,4 @@
-package Inheritence;
+package oops.Inheritence;
 class Student{               //Super class
 	String name="Akash";
 	void display() {
